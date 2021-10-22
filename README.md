@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Snave254
-- 👀 I’m interested in ... Nothing 👣
-- 🌱 I’m currently learning ...How to automate boring stuffs
-- 💞️ I’m looking to collaborate on web building with Python
+- <h1> Hi, I’m Evans</h1>
+- <h2> Alias: Gamer_Snave</h2>
+- 👀 I’m interested in ... stupid codes 👣
+- 🌱 I’m currently learning ...How to stay fit💪
+- 💞️ I’m looking to collaborate on building a gym.  
+- 😎 I found  Love --- Python😍
 - 📫 How to reach me .TG..@gamer_snave
 
 <!---
